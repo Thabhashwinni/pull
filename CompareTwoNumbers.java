@@ -3,7 +3,7 @@ public class CompareTwoNumbers
  public static void main (String[] args)
  {
    int num1 =124;
-   int num2 =234;
+   int num2 =534;
  
  if(num1 >num2)
   {
